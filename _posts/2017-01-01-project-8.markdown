@@ -1,0 +1,14 @@
+---
+title: Materiais Básicos
+subtitle:
+layout: default
+modal-id: 8
+date: 2017-01-01
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date:
+client:
+category:
+description:
+---

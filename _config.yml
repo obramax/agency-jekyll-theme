@@ -57,10 +57,9 @@ description: "Landing page for OBRAMAX, the world's third largest retailer of co
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: R. Silva Bueno, 261 - Ipiranga, São Paulo - SP, 04208-050
+  # - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
