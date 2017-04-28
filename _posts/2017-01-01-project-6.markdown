@@ -1,14 +1,9 @@
 ---
-title: Ferramentas
-subtitle:
+title: Ferragens
 layout: default
-modal-id: 6
-date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+position: 6
+img: icones-16.png
+thumbnail: icones-16.png
+alt: Ferragens
+category: line_2
 ---

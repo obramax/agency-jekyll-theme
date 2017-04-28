@@ -1,14 +1,9 @@
 ---
-title: Materiais Básicos
-subtitle:
+title: Louças e Metais
 layout: default
-modal-id: 8
-date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+position: 8
+img: icones-07.png
+thumbnail: icones-07.png
+alt: Louças e Metais
+category: line_2
 ---

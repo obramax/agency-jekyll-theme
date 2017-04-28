@@ -1,14 +1,9 @@
 ---
-title: Cerâmica
-subtitle:
+title: Esquadrias
 layout: default
-modal-id: 2
-date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+position: 2
+img: icones-01.png
+thumbnail: icones-01.png
+alt: Esquadrias
+category: line_1
 ---

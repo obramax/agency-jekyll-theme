@@ -1,14 +1,9 @@
 ---
-title: Pintura
-subtitle:
+title: Materiais Básicos
 layout: default
-modal-id: 1
-date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+position: 1
+img: icones-02.png
+thumbnail: icones-02.png
+alt: Materiais Básicos
+category: line_1
 ---

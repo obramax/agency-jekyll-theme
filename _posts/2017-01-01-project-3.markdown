@@ -1,14 +1,9 @@
 ---
-title: Ferragens
-subtitle:
+title: Materiais Elétricos
 layout: default
-modal-id: 3
-date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+position: 3
+img: icones-03.png
+thumbnail: icones-03.png
+alt: Materiais Elétricos
+category: line_1
 ---

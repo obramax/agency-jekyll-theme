@@ -1,14 +1,10 @@
 ---
-title: Elétricos e Hidráulicos
-subtitle:
+title: Pintura
 layout: default
-modal-id: 9
+position: 9
 date: 2017-01-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date:
-client:
-category:
-description:
+img: icones-08.png
+thumbnail: icones-08.png
+alt: Pintura
+category: line_3
 ---
