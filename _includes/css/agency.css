@@ -53,6 +53,9 @@
 .img-about {
     padding: 0 20px;
 }
+.link-img:hover {
+    text-decoration: none;
+}
 
 body {
     overflow-x: hidden;
