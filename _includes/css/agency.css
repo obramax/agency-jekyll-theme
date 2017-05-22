@@ -56,7 +56,20 @@
 .link-img:hover {
     text-decoration: none;
 }
-
+.mr-5 {
+    margin-left: 10px;
+}
+.group-sector {
+    margin: 40px 0;
+}
+.group-sector dd {
+    margin-bottom: 30px;
+}
+.group-sector dt {
+    color: #666;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
