@@ -1,7 +1,7 @@
 ---
 title: Esquadrias
 layout: default
-position: 2
+position: 4
 img: icones-01.png
 thumbnail: icones-01.png
 alt: Esquadrias

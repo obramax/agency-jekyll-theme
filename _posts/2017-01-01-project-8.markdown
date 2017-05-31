@@ -1,7 +1,7 @@
 ---
 title: Louças e Metais
 layout: default
-position: 8
+position: 5
 img: icones-07.png
 thumbnail: icones-07.png
 alt: Louças e Metais

@@ -1,7 +1,7 @@
 ---
 title: Marcenaria
 layout: default
-position: 10
+position: 6
 img: icones-09.png
 thumbnail: icones-09.png
 alt: Marcenaria
