@@ -6,7 +6,7 @@ $(function() {
             // additional error messages or events
         },
         submitSuccess: function($form, event) {
-            // return true;
+            return true;
             // event.preventDefault(); // prevent default submit behaviour
             // // get values from FORM
             // var name = $("input#name").val();
