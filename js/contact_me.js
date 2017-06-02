@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "//obramax.us15.list-manage.com/subscribe/post?u=3489cdb813640ec2093bb2398&amp;id=07af593636",
                 type: "POST",
                 data: {
                     name: name,
