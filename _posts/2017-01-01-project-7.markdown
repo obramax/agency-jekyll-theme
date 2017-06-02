@@ -1,7 +1,7 @@
 ---
 title: Cerâmica
 layout: default
-position: 7
+position: 5
 img: icones-06.png
 thumbnail: icones-06.png
 alt: Cerâmica
